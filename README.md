@@ -136,6 +136,3 @@ Through this project, I learned:
 - Advanced DAX Measures
 - Customer Segmentation Analysis
 
----
-
-epository a ⭐ on GitHub.
